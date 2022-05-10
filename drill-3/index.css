@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 25px;
+    background-color: #e5e5e5;
+    box-sizing: border-box;
+}
+
+.square-one {
+    height: 75px;
+    width: 75px;
+    background-color: #007CBE;
+}
+
+div {
+    display: block;
+}
+
+p {
+    padding: 40px 40px 30px;
+}
+
+.stripe {
+    height: 25vh;
+}
+
+.stripe-one {
+    background-color: blue;
+}
+
+.stripe-two {
+    background-color: aquamarine;
+}
+
+.stripe-three {
+    background-color: lightgreen;
+}
+
+.stripe-four {
+    background-color: rgb(218, 218, 2);
+}
+
+.question-mark {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.question-mark button {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+button {
+    border: 0;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 10px;
+}
